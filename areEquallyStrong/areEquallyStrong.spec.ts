@@ -1,6 +1,6 @@
 import { areEquallyStrong } from './areEquallyStrong';
 
-xdescribe(areEquallyStrong.name, () => {
+describe(areEquallyStrong.name, () => {
     it('Test 1', () => {
         // arrange
         const yourLeft = 10;

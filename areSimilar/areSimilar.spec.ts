@@ -1,6 +1,6 @@
 import { areSimilar } from './areSimilar';
 
-xdescribe(areSimilar.name, () => {
+describe(areSimilar.name, () => {
     it('Test 1', () => {
         // arrange
         const data1 = [1, 2, 3];

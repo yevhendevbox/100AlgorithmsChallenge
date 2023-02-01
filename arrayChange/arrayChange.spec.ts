@@ -1,6 +1,6 @@
 import { arrayChange } from './arrayChange';
 
-xdescribe(arrayChange.name, () => {
+describe(arrayChange.name, () => {
     it('Test 1', () => {
         // arrange
         const data = [1, 1, 1];
